@@ -13,7 +13,7 @@
     using System.Text;
 
     [Serializable]
-    [LuisModel("a45e6e67-5ef5-4183-8ef0-9ba2ee4e6152", "42239e5c79784fa8b3b241b2bbecb5ef")]
+    [LuisModel("60063d87-da3d-4076-8e5d-e8d9b01660a6", "5e1e300d8b6c43e1a1b4b6f5cb265ec7")]
     public class RootLuisDialog : LuisDialog<object>
     {
         private const string EntityGeographyCity = "builtin.geography.city";
