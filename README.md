@@ -1,1 +1,2 @@
 # hotelbot
+test hotel bot
